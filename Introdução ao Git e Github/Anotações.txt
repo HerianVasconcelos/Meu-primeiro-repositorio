@@ -1,0 +1,2 @@
+09/06/2022: Hoje eu estou realizando o Desafio de Projeto no curso da DIO, meu objetivo é através dessas anotações e de diversos outros repositórios que irei criar, eu mostrar minha evolução.
+COMANDOS DESTAQUES: cd (nome da pasta) e no final barra(/), comando que me insere a pasta na qual irei exportar para o repositório após alterar seu conteúdo que foi importado pelo GitHub.
